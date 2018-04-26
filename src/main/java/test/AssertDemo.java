@@ -1,4 +1,4 @@
-package interview;
+package test;
 
 public class AssertDemo {
 
