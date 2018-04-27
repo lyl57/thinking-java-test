@@ -26,6 +26,6 @@ public class TestSet {
 
         HashMap<String,String> hashMap=new HashMap<String, String>();
         System.out.println(hashMap.put("11","2"));
-        System.out.println(hashMap.put("11","2"));
+        System.out.println(hashMap.put("11","3"));
     }
 }

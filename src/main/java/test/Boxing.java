@@ -8,6 +8,7 @@ public class Boxing {
     public static void main(String[] args) {
         //在-128~127 之外的数
         Integer i1 =200;
+
         Integer i2 =200;
         System.out.println("i1==i2: "+(i1==i2));
         // 在-128~127 之内的数
