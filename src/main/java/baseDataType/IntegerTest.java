@@ -10,6 +10,10 @@ package baseDataType;
  **/
 public class IntegerTest {
     public static void main(String[] args) {
-        System.out.println(Integer.toOctalString(15));
+        int a = 15;
+        System.out.println(Integer.toBinaryString(a));
+        int b = a | 1;
+        System.out.println(b);
+        System.out.println(Integer.toBinaryString(b));
     }
 }
